@@ -6,4 +6,6 @@ function ligar (){
    lampada.src = './img/ligada.jpg'
 }
 
+deu tudo certo
+
 lampOn.addEventListener('click', ligar);
